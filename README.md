@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Paulo 👋
 
-<!--
-**Pauloand89/Pauloand89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Engineer (L1/L2) transitioning into **Cloud & Security**.
+📍 Belém, Brazil · 🌎 Open to remote opportunities
 
-Here are some ideas to get you started:
+## 🛠️ What I work with
+Active Directory · Microsoft 365 / Exchange · Networking · Azure VPN · ServiceNow · GLPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently building
+- ☁️ AWS hands-on labs (VPC, EC2, S3, IAM)
+- 🐍 Python scripts to automate IT support tasks
+- 🔐 Security fundamentals (Microsoft SC-900)
+
+## 🎓 Certifications
+AWS re/Start Graduate · Microsoft SC-900 · GLPI/ITSM · Python
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/paulo-carvalhoitsupport)
